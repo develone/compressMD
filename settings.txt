@@ -1,0 +1,16 @@
+#GribEncoder settings
+#Wed Jun 08 15:33:22 MDT 2005
+debug=true
+wLev=3
+param=18
+level.lowest=10
+mae=.5
+period2=0
+doKLT=true
+period1=0
+rate=0.15
+nBits=16
+showImages=true
+level.highest=1013
+lossless=false
+RnetCDF=false
