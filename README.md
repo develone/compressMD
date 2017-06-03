@@ -18,3 +18,6 @@ With the Cubes of Data for each 4 hours the data is compressed using JPEG 2000 i
 and either the KLT or DTW in the veritical directions.
 
 The error in the numerical data is maitained for each of the parameters.
+The input data can be either GRIB or netcdf.
+Images are pgx format for each layer of various Met parameters.
+The cube starts at the surface at 1013 millibars to a height of 10 millibars.
